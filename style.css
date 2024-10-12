@@ -75,6 +75,7 @@ header {
     display: flex;
     justify-content: center;
     letter-spacing: 4px;
+    line-height: 2;
 }
 
 h2 ~ p {
@@ -95,7 +96,7 @@ a:hover {
 }
 
 a {
-    color: #ffad60;
+    color: #c62e2e;
 }
 
 a:visited {
