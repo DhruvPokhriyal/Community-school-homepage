@@ -114,3 +114,7 @@ a:active {
 img {
     height: 7px;
 }
+
+ul li {
+    list-style-type: circle;
+}
